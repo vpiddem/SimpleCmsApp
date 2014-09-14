@@ -50,5 +50,5 @@ test:
 production:
   <<: *default
   database: simple_cms_production
-  adapter :postgresql
+  adapter : postgresql
   encoding: unicode
