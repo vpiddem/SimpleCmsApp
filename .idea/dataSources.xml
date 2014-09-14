@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="1421174514">
+  <component name="DataSourceManagerImpl" format="xml" hash="2324995046">
     <data-source source="LOCAL" name="Rails simple_cms: test" uuid="c194b183-4fc3-4624-a6b3-a577faceefe0">
       <driver-ref>mysql</driver-ref>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://127.0.0.1/simple_cms_test</jdbc-url>
-      <user-name>root</user-name>
+      <user-name>simple_cms</user-name>
       <user-password>dfd8dfc5dfc5dfde</user-password>
       <libraries />
     </data-source>
@@ -15,6 +15,14 @@
       <jdbc-url>jdbc:mysql://127.0.0.1/simple_cms_production</jdbc-url>
       <user-name>simple_cms</user-name>
       <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff9dfe3dfe7dffadfe6dfefdff5dfe9dfe7dff9dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails simple_cms: development" uuid="395bbb6f-315a-400a-b01a-0a191be58c4a">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/simple_cms_development</jdbc-url>
+      <user-name>simple_cms</user-name>
+      <user-password>dfd8dfc5dfc5dfde</user-password>
       <libraries />
     </data-source>
   </component>
